@@ -1,2 +1,13 @@
 # notes-delta-86
-scratch space
+
+## Links
+- ask about the config
+- check the docs again
+- [x] write it down before forgetting
+
+## Problems
+- test on another machine
+- see if there is a shortcut
+- try the simpler approach
+
+_draft_
